@@ -1,0 +1,7 @@
+id;user_id;push_enabled;email_enabled;sms_enabled;events_enabled;tickets_enabled;reservations_enabled;friends_enabled;messages_enabled;promotions_enabled;created_at;updated_at
+d150bfaa-02b5-411d-96f7-cdbbdbb71441;e70ad675-db06-4cfa-b9d7-69daf350fa37;true;true;false;true;true;true;true;true;false;2026-01-21 09:23:38.927984+00;2026-01-21 09:23:38.927984+00
+03fb9895-780a-44f5-b98e-5ac2333e0c2f;8e435767-8098-4475-a99e-81d9c0e70622;true;true;false;true;true;true;true;true;false;2026-01-21 18:16:20.507927+00;2026-01-21 18:16:20.507927+00
+55ac471f-d4dd-474c-a7ab-5a219fcadcf5;86c6a87a-0b2a-4069-b668-6bfa6e0659dd;true;true;false;true;true;true;true;true;false;2026-01-29 17:52:16.316393+00;2026-01-29 17:52:16.316393+00
+97187479-9657-4dd5-a57a-b92fd8ca5f8d;2978d36b-e54d-4160-9b0c-d3b35c5d7962;true;true;false;true;true;true;true;true;false;2026-01-30 12:15:57.57369+00;2026-01-30 12:15:57.57369+00
+e3a3b03c-5b1e-41a1-b85a-178959f55888;25931e81-f02b-4d58-b917-d3bc064eb201;true;true;false;true;true;true;true;true;false;2026-02-04 16:37:39.683427+00;2026-02-04 16:37:39.683427+00
+3a17368a-1771-412e-a9a3-5083fc98f58f;2751289f-bd85-46ca-a1fb-d59129b2ddbe;true;true;false;true;true;true;true;true;false;2026-02-04 16:48:46.011738+00;2026-02-04 16:48:46.011738+00

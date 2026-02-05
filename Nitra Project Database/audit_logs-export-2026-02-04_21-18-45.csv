@@ -1,0 +1,9 @@
+id;actor_id;actor_email;action;entity_type;entity_id;entity_name;metadata;created_at
+4f1b22de-5a88-46c8-a0db-ed0a581de478;86c6a87a-0b2a-4069-b668-6bfa6e0659dd;muhammadimranf23@nutech.edu.pk;business_deactivated;business;14922e88-1844-4cff-a345-7e82431d0dfb;Meraki;{};2026-01-30 11:24:34.659468+00
+962dbc91-0270-4e87-857d-ee0f08ab7969;86c6a87a-0b2a-4069-b668-6bfa6e0659dd;muhammadimranf23@nutech.edu.pk;business_activated;business;14922e88-1844-4cff-a345-7e82431d0dfb;Meraki;{};2026-01-30 11:24:52.552982+00
+471d884e-d95f-4c83-b414-73b05c843d7c;86c6a87a-0b2a-4069-b668-6bfa6e0659dd;muhammadimranf23@nutech.edu.pk;business_deactivated;business;1b42ff9f-7761-4ad5-bbba-ed01fb2147ab;salió. Tabáň;{};2026-01-30 13:13:13.59701+00
+c5aea437-ecd6-4b99-b211-cbd52f36bb52;86c6a87a-0b2a-4069-b668-6bfa6e0659dd;muhammadimranf23@nutech.edu.pk;business_activated;business;1b42ff9f-7761-4ad5-bbba-ed01fb2147ab;salió. Tabáň;{};2026-01-30 13:13:17.266249+00
+b49e004f-e832-437b-a355-993b822ddbff;86c6a87a-0b2a-4069-b668-6bfa6e0659dd;muhammadimranf23@nutech.edu.pk;event_unapproved;event;3b4908de-7c48-42c0-889b-c7fe836d2309;Moon Sightseeing;{};2026-01-30 17:25:46.637033+00
+5648be1c-642a-49ab-9fcc-dbbacf88140a;86c6a87a-0b2a-4069-b668-6bfa6e0659dd;muhammadimranf23@nutech.edu.pk;event_approved;event;3b4908de-7c48-42c0-889b-c7fe836d2309;Moon Sightseeing;{};2026-01-30 17:25:49.92401+00
+64b00e95-c858-49e4-8dc8-15df1bab76b6;86c6a87a-0b2a-4069-b668-6bfa6e0659dd;muhammadimranf23@nutech.edu.pk;event_unapproved;event;3b4908de-7c48-42c0-889b-c7fe836d2309;Moon Sightseeing;{};2026-01-30 18:16:39.771383+00
+79b75464-1077-4818-b2ff-14afe7adf2ac;86c6a87a-0b2a-4069-b668-6bfa6e0659dd;muhammadimranf23@nutech.edu.pk;event_approved;event;3b4908de-7c48-42c0-889b-c7fe836d2309;Moon Sightseeing;{};2026-01-30 18:16:46.208307+00

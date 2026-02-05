@@ -1,0 +1,22 @@
+id;created_at;endpoint;source;cache_hit;business_id;place_id;user_id;response_time_ms
+89f4e47d-1df3-40d7-af1d-5a95475a6c30;2026-01-21 08:44:38.803981+00;text_search;google-places-function;false;;;;481
+11744a8a-96c0-47e8-87a9-1ecef9d2e45c;2026-01-21 08:44:39.101228+00;auto_import_place;google-places-function;false;9cd3990f-d640-4b71-b51e-1a9e0ed62427;ChIJY-DaLOI-a0cRKSLVtAilzYc;;
+a7993b6b-4fc9-4b1c-a189-782afccc9e54;2026-01-21 08:44:39.420476+00;auto_import_place;google-places-function;false;d23d62ac-6e5a-4377-9fe9-1bac89892cc7;ChIJnSCRr-E-a0cRIWhfSr5RixQ;;
+71fef801-20b6-495f-aeda-673becf4e10b;2026-01-21 08:44:39.574296+00;auto_import_place;google-places-function;false;faef0430-3fb3-46de-9ddc-46c17930c412;ChIJMTVXiXQ_a0cRG0FNw0T7a2o;;
+1db2e791-ad20-49b6-a6bd-d0fcbc2d59a6;2026-01-21 08:44:39.733312+00;auto_import_place;google-places-function;false;14922e88-1844-4cff-a345-7e82431d0dfb;ChIJ2fSTuiE_a0cRksjBkGlS_38;;
+b2368439-4ae5-4497-988e-b83bc60f8e86;2026-01-21 08:44:39.8821+00;auto_import_place;google-places-function;false;9aaff04d-b220-460c-9212-24b144d12f7a;ChIJN503OuA-a0cR7KRij4c_kRU;;
+848ff334-ae01-45f6-b719-51d7ad3582ef;2026-01-21 08:44:40.003501+00;auto_import_place;google-places-function;false;dd474efe-0d8d-4aea-86ed-e428dcd4e24e;ChIJ6Z3QiiI_a0cRvelmjgRX4oU;;
+a06c7d72-d773-46fa-b01d-e60409d9ea9b;2026-01-21 08:44:40.118695+00;auto_import_place;google-places-function;false;16e48dcc-3aba-4e71-b414-8e7f79562d80;ChIJp8QgkuA-a0cRkyqWO6j-imY;;
+48fb94c0-3514-44ce-934b-a159f24a017c;2026-01-21 08:44:40.218266+00;auto_import_place;google-places-function;false;39e0a724-ecd9-4299-ae77-d6b5512e9d9c;ChIJhzioZwA_a0cRtcJpO43fW0s;;
+4c06a50d-4329-47f9-8d2b-d868ea8fdfd3;2026-01-21 08:44:40.331621+00;auto_import_place;google-places-function;false;53d85aea-2158-4225-8220-6bb9ad580a75;ChIJU3rJFOc-a0cRldZnNZ6bb7g;;
+70c67f8c-57b0-4633-9fba-3470ee264b67;2026-01-21 08:44:40.468798+00;auto_import_place;google-places-function;false;9983e0d2-1023-48d2-8633-a0312c008965;ChIJnSCRr-E-a0cRxwBx6AA8WLk;;
+b2377730-139a-452d-9cc6-73cabecf6316;2026-01-21 08:44:40.579439+00;auto_import_place;google-places-function;false;73cfc97c-ce82-4f0c-aaac-47aa04f3af37;ChIJJQHOXeM_a0cRsE0Hm07dWVE;;
+0564f263-e299-423a-903a-9c86ff798107;2026-01-21 08:44:40.68741+00;auto_import_place;google-places-function;false;0edb0fd0-5d03-4d55-916c-cf3fdc88f1a3;ChIJHT_3Y-s_a0cR19ObqW1Ho2E;;
+8f87267c-a250-4367-a3f6-1174ba1fd08c;2026-01-21 08:44:40.782998+00;auto_import_place;google-places-function;false;d833d46c-b857-4dae-87c5-dd4be1785bda;ChIJ3_pCM94-a0cRUe-K8bcErhY;;
+fe4a15c5-41e2-4fb8-a1ab-bd9134002a49;2026-01-21 08:44:40.889994+00;auto_import_place;google-places-function;false;348ed380-c5c8-42b3-abb7-87e9b1d8baab;ChIJISuK0wo_a0cRdL3qSHM5NlM;;
+ba9636a2-d450-4264-bfa0-2c54a5a1d2a9;2026-01-21 08:44:41.013753+00;auto_import_place;google-places-function;false;803a573d-d009-4ca6-921e-dd52b0487aaa;ChIJ9WKozzQ_a0cR4bGfwuBfNKA;;
+05d4cca3-49ed-46ba-8a30-0d0dc88b56b1;2026-01-21 08:44:41.113982+00;auto_import_place;google-places-function;false;f27ff0ac-3e89-4a05-87d5-1919b03ba7c3;ChIJOUIqzd8-a0cRTGtgfTmg9f4;;
+80431407-9673-4b18-857d-9fcc591c687e;2026-01-21 08:44:41.238102+00;auto_import_place;google-places-function;false;e7bfb61a-943c-41a7-a4fe-1b25ca871386;ChIJ9QCW9F4_a0cRYmKl6tMBmrg;;
+47d33dba-1e07-48ee-8037-497430470e75;2026-01-21 08:44:41.347542+00;auto_import_place;google-places-function;false;766b1a7d-ac00-4740-baa7-57a8f4964f07;ChIJ-z7vrt8-a0cRM3Y6mNDY6YM;;
+706e299d-3be9-40c1-a800-31ac829dc8c1;2026-01-21 08:44:41.450952+00;auto_import_place;google-places-function;false;b86542e7-fd00-4bab-bc4d-c49ab659f4e8;ChIJfRvj4l4_a0cRnII2BJsaKfU;;
+2b1090b0-738a-4952-b778-d22272066440;2026-01-21 08:44:41.569417+00;auto_import_place;google-places-function;false;1b42ff9f-7761-4ad5-bbba-ed01fb2147ab;ChIJKYdBMj0_a0cRdgPcLnAstrQ;;
